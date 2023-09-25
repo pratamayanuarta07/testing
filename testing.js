@@ -3,3 +3,4 @@ let total = a.reduce((total, x) =>
   {
   return total+=x;
   },0);
+console.log(total)
