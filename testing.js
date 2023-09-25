@@ -3,4 +3,8 @@ let total = a.reduce((total, x) =>
   {
   return total+=x;
   },0);
-console.log(total)
+console.log(total);
+
+const test(a:number){
+  return a;
+}
