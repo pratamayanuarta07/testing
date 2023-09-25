@@ -66,4 +66,5 @@ const soal2ver2 = (bill:number[], k:number, b:number) =>
 }
 soal2ver2([3,10,2,9],1,12);
 let a = [1,2,3,4,7,8,9];
+let b = [1,2,3,4,5,6,7,8,0,0,0];
 // console.log(soal1ver2('sossso'));
